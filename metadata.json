@@ -1,0 +1,6 @@
+{
+  "name": "Gold Bot Monitor",
+  "description": "Internal monitoring and intelligence dashboard for the Gold Telegram Bot system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
